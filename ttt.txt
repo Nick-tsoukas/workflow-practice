@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testing
+=======
+Hello
+>>>>>>> changing ttt.txt file
